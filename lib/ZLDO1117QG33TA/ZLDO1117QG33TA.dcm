@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZLDO1117QG33TA
+D LDO Voltage Regulators 1A Low Dropout 1.2V Adj or Fixed
+F https://www.diodes.com/assets/Datasheets/ZLDO1117.pdf
+$ENDCMP
+#
+#End Doc Library
